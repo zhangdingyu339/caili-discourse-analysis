@@ -1,0 +1,4 @@
+platform,frame,documents,activation_rate,zero_rate,mean_hits_per_100_chinese_chars
+douban,gender_roles,60,0.2,0.8,1.7691418840844126
+douban,conflict_language,60,0.2,0.8,1.1251249070214588
+douban,asset_risk,60,0.2,0.8,1.984520417853751

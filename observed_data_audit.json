@@ -1,0 +1,17 @@
+{
+  "data_kind": "observed_aggregate_only",
+  "audit": {
+    "input_rows": 363,
+    "input_threads": 142,
+    "short_or_empty_removed": 0,
+    "normalized_duplicates_removed": 17,
+    "retained_rows": 346,
+    "retained_threads": 137,
+    "platform_count": 1
+  },
+  "classification_status": {
+    "status": "not_run",
+    "reason": "Requires exactly two observed platforms; no labels are fabricated."
+  },
+  "note": "Source-file subset only; not the full corpus from the course report."
+}

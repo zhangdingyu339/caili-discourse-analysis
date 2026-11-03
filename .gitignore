@@ -1,0 +1,11 @@
+private/
+.env
+.env.*
+*cookie*
+*state.json
+*.html
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store

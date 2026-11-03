@@ -1,0 +1,29 @@
+{
+  "data_kind": "synthetic_demo",
+  "input_sha256": "6d559ec3f51e2452a012e06839cac5cc8a73a97258841e00438c7c2b852b03dc",
+  "seed": 42,
+  "audit": {
+    "input_rows": 60,
+    "input_threads": 30,
+    "short_or_empty_removed": 0,
+    "normalized_duplicates_removed": 0,
+    "retained_rows": 60,
+    "retained_threads": 30,
+    "platform_count": 1
+  },
+  "topic_model": {
+    "topics": 5,
+    "zero_topic_weight_documents": 0
+  },
+  "classification": {
+    "status": "not_run",
+    "reason": "Requires exactly two observed platforms; no labels are fabricated."
+  },
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "jieba": "0.42.1",
+    "matplotlib": "3.10.8"
+  }
+}
